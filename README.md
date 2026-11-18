@@ -13,7 +13,8 @@ A calm, privacy-focused Android web browser built on a hardened WebView engine. 
 ## Screenshot
 
 <img width="2186" height="1600" alt="shrine-1" src="https://github.com/user-attachments/assets/b84bc227-9385-434f-a581-78f9bbd79587" />
-<img width="2186" height="1600" alt="shrine-2" src="https://github.com/user-attachments/assets/41eaaaac-4ef0-4b06-a127-7d6c5812ef57" />
+<img width="2186" height="1600" alt="shrine-2" src="https://github.com/user-attachments/assets/ad865b54-8ee3-4d89-a4e7-5593f2c3a7be" />
+
 
 ---
 
