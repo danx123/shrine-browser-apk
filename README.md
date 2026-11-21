@@ -1,7 +1,7 @@
 # Shrine Browser
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Release-v1.7.4-FF9E0B?style=for-the-badge" alt="Release Version" />
+  <img src="https://img.shields.io/badge/Release-v1.8.0-FF9E0B?style=for-the-badge" alt="Release Version" />
   <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Platform" />
   <img src="https://img.shields.io/badge/Architecture-Jetpack%20Compose-4285F4?style=for-the-badge" alt="Jetpack Compose" /> 
 </p>
@@ -12,7 +12,8 @@ A calm, privacy-focused Android web browser built on a hardened WebView engine. 
 
 ## Screenshot
 
-<img width="2186" height="1600" alt="shrine-1" src="https://github.com/user-attachments/assets/b001d5c0-94dc-480a-a24c-8abc4278a2ff" />
+<img width="2186" height="1600" alt="shrine-1" src="https://github.com/user-attachments/assets/9c0dc8d4-df68-4642-ab08-8a927f2130db" />
+
 
 <img width="2186" height="1600" alt="shrine-2" src="https://github.com/user-attachments/assets/ad865b54-8ee3-4d89-a4e7-5593f2c3a7be" />
 
